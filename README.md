@@ -28,3 +28,6 @@ Then, I load the model again for the test folder.
 Predicting on the test folder, I achieved 70% accuracy.
 <img width="960" alt="accuracy on test folder" src="https://user-images.githubusercontent.com/83235872/126776006-bdbca9c8-d04c-4c7b-8c41-206fc47d9720.png">
 
+Drive Link-https://drive.google.com/drive/folders/1FdU7r81t_g0PpLEiJuSppxPGhftXvABu?usp=sharing
+The above link contains images of train folder and test folder with each image containing the points detected by the function.
+
