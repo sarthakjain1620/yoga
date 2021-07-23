@@ -1,6 +1,6 @@
 # yoga
 
-I have created a model for yoga pose detection using opencv. I imported the pose estimation code from github where it will generate a skeleton for a particular yoga pose.
+I have created a model for yoga pose detection using opencv. I imported the pose estimation code for detecting key points in an image from github where it will generate a skeleton for a particular yoga pose.
 <img width="960" alt="pose detected image with skeleton points" src="https://user-images.githubusercontent.com/83235872/126775888-90d42ecf-c891-473d-a9f1-804fc4a56635.png">
 
 <img width="960" alt="pose detected image " src="https://user-images.githubusercontent.com/83235872/126775913-d6472ea6-6e96-4b89-8612-1084e48257a4.png">
